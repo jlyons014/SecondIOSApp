@@ -18,6 +18,8 @@
 		01D0DBD7236908450003082F /* Fluffy.png in Resources */ = {isa = PBXBuildFile; fileRef = 01D0DBD3236908450003082F /* Fluffy.png */; };
 		01D0DBD8236908450003082F /* Astro.png in Resources */ = {isa = PBXBuildFile; fileRef = 01D0DBD4236908450003082F /* Astro.png */; };
 		01D0DBD9236908450003082F /* Munchie.png in Resources */ = {isa = PBXBuildFile; fileRef = 01D0DBD5236908450003082F /* Munchie.png */; };
+		01D0DBDB23693AF20003082F /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D0DBDA23693AF20003082F /* NewViewController.swift */; };
+		01D0DBDD236946B10003082F /* NewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D0DBDC236946B10003082F /* NewTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		01D0DBD3236908450003082F /* Fluffy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fluffy.png; sourceTree = "<group>"; };
 		01D0DBD4236908450003082F /* Astro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Astro.png; sourceTree = "<group>"; };
 		01D0DBD5236908450003082F /* Munchie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Munchie.png; sourceTree = "<group>"; };
+		01D0DBDA23693AF20003082F /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
+		01D0DBDC236946B10003082F /* NewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 				01D0DBD3236908450003082F /* Fluffy.png */,
 				01D0DBD5236908450003082F /* Munchie.png */,
 				01D0DBD2236908450003082F /* Squido.png */,
+				01D0DBDA23693AF20003082F /* NewViewController.swift */,
+				01D0DBDC236946B10003082F /* NewTableViewController.swift */,
 			);
 			path = SecondIOSApp;
 			sourceTree = "<group>";
@@ -159,6 +165,8 @@
 			files = (
 				01D0DBB92368FDC70003082F /* ViewController.swift in Sources */,
 				01D0DBB52368FDC70003082F /* AppDelegate.swift in Sources */,
+				01D0DBDD236946B10003082F /* NewTableViewController.swift in Sources */,
+				01D0DBDB23693AF20003082F /* NewViewController.swift in Sources */,
 				01D0DBC92368FE960003082F /* Jokes.swift in Sources */,
 				01D0DBB72368FDC70003082F /* SceneDelegate.swift in Sources */,
 			);
